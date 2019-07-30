@@ -1,0 +1,2 @@
+# emojidex
+Emoji database
