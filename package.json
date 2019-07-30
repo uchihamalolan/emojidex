@@ -1,5 +1,5 @@
 {
-  "name": "emojidex",
+  "name": "@uchihamalolan/emojidex",
   "version": "1.0.0",
   "description": "An emoji database",
   "main": "dist/emojidex.js",
@@ -22,5 +22,9 @@
   "homepage": "https://github.com/uchihamalolan/emojidex#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
 }
