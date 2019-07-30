@@ -1,5 +1,5 @@
-const emojidata = require('../assets/emojidata'),
-  emojilist = require('../assets/emojilist');
+const { emojidata } = require('../assets/emojidata');
+const { emojilist } = require('../assets/emojilist');
 
 module.exports = {
   emojidata,

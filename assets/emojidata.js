@@ -1,4 +1,4 @@
-export default {
+export const emojidata = {
   "people": [
     {
       "codes": "1F600",
