@@ -1,2 +1,2 @@
 # emojidex
-Emoji database
+https://img.shields.io/appveyor/ci/uchihamalolan/emojidex
