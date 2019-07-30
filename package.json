@@ -1,0 +1,29 @@
+{
+  "name": "emojidex",
+  "version": "1.0.0",
+  "description": "An emoji database",
+  "main": "emojidex.js",
+  "scripts": {
+    "dev": "parcel src/emojidex.js",
+    "build": "parcel build src/emojidex.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihamalolan/emojidex.git"
+  },
+  "keywords": [
+    "emoji",
+    "emoji-data",
+    "emoji-list"
+  ],
+  "author": "uchihamalolan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/uchihamalolan/emojidex/issues"
+  },
+  "homepage": "https://github.com/uchihamalolan/emojidex#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
