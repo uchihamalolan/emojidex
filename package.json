@@ -1,16 +1,16 @@
 {
-  "name": "@uchihamalolan/emojidex",
+  "name": "emojidata",
   "version": "1.0.0",
   "description": "An emoji database",
-  "main": "dist/emojidex.js",
+  "main": "dist/emojidata.js",
   "scripts": {
-    "dev": "parcel src/emojidex.js",
-    "build": "parcel build src/emojidex.js",
+    "dev": "parcel src/emojidata.js",
+    "build": "parcel build src/emojidata.js",
     "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uchihamalolan/emojidex.git"
+    "url": "git+https://github.com/uchihamalolan/emojidata.git"
   },
   "keywords": [
     "emoji",
