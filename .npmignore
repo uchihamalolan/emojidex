@@ -1,6 +1,10 @@
 # compiled output
-/dist
 /.cache
 
 # dependencies
 /node_modules
+
+# code
+/src
+/test
+/assets
