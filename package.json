@@ -1,6 +1,6 @@
 {
   "name": "@uchihamalolan/emojidex",
-  "version": "1.0.2-2",
+  "version": "1.0.2",
   "description": "An emoji database",
   "main": "dist/emojidex.js",
   "scripts": {
