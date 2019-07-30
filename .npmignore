@@ -3,8 +3,3 @@
 
 # dependencies
 /node_modules
-
-# code
-/src
-/test
-/assets
