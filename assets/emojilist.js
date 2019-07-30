@@ -1,4 +1,4 @@
-export const emojilest = {
+export const emojilist = {
   "people": [
     "😀",
     "😃",
