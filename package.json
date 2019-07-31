@@ -23,6 +23,7 @@
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
   },
+  "files": ["dist"],
   "directories": {
     "test": "test"
   },
