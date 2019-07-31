@@ -1,6 +1,7 @@
 # compiled output
 /dist
 /.cache
+.DS_Store
 
 # dependencies
 /node_modules
