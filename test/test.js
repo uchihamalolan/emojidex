@@ -1,4 +1,4 @@
-const { emojidata, emojilist } = require('../dist/emojidex');
+const { emojidex } = require('../dist/emojidex');
 
-console.log(emojidata.people[0]);
-console.log(emojilist.people[0]);
+console.log(emojidex.emojidata.people[0]);
+console.log(emojidex.emojilist.people[0]);
