@@ -17,8 +17,9 @@ npm install @uchihamalolan/emojidex
 ## Usage
 
 ```js
-const { emojidata, emojilist } = require('emojidex')
-console.log(emojidata['people'][0])
+const { emojidex } = require('emojidex')
+console.log(emojidex.emojidata['people'][0])
+console.log(emojidex.emojilist['people'][0])
 
 // output => 
 { 
