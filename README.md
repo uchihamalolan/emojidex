@@ -17,11 +17,12 @@ npm install @uchihamalolan/emojidex
 ## Usage
 
 ```js
-const { emojidata, emojilist } = require('emojidex')
-console.log(emojidata['people'][0])
+const { emojidex } = require('emojidex')
+console.log(`Emoji Data: ${emojidex.emojidata['people'][0]}`);
+console.log(`Emoji value: ${emojidex.emojilist['people'][0]}`);
 
 // output => 
-{ 
+Emoji Data: { 
   codes: '1F600',
   char: '😀',
   name: 'grinning face',
@@ -29,6 +30,7 @@ console.log(emojidata['people'][0])
   subcategory: 'face-smiling',
   keyTerms: [ 'face', 'grin', 'grinning face' ] 
 }
+Emoji Value: 😀
 ```
 
 ## Properties
